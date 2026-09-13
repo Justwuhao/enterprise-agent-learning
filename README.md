@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Enterprise Agent Learning
 
 > 研究生一年级企业智能体（Enterprise Agent）学习、实验、项目实践与科研积累仓库。
@@ -93,3 +94,7 @@ enterprise-agent-learning/
 ## 7. 当前阶段
 
 > 当前目标：完成第 1-8 周基础阶段，优先打通 Python + FastAPI + LLM API + Prompt + Embedding + Tool Calling + LangGraph。
+=======
+# enterprise-agent-learning
+研一企业智能体方向学习笔记与项目代码
+>>>>>>> 284443d3c39e3fd019c41587035ae231a905570f
